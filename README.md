@@ -4,10 +4,12 @@
 
 ## What I work with
 ***Languages & Core***: Python (OOP, multithreading, asyncio), C, Java, C++, C#, Delphi (Pascal), Assembler  
-***Backend Frameworks***: FastAPI, Django / DRF (currently studying)  
-***Databases***: MySQL, SQL (design & query optimization)  
+***Backend Frameworks***: FastAPI, Flask 
+***Databases***: MySQL, SQL, MongoDB (currently studying)  
 ***Networking***: client‑server architecture, TCP/UDP, sockets, HTTP/HTTPS, JSON/XML  
 ***Tools & Environment***: Git, GitHub, Linux (basic)  
+***Containerization***: Docker, Docker Compose (currently diving deeper)
+***Message Brokers & Stream Processing***: Apache Kafka (currently diving deeper)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anastasia-spizharnaya)
@@ -15,4 +17,4 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lm_anastasia_s)
 
 ## 💻 Tech Stack (core)
-**Python** · **MySQL** · **FastAPI** · **Django** · **Git** · **Linux** · **SQL** · **asyncio**
+**Python** · **SQL** · **FastAPI** · **Git** · **Linux** · **HTTP REST** · **asyncio**
