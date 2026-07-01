@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## 👀 Open to work
+I am actively looking for a **Junior Backend Developer** position (Python / FastAPI / SQL). Open to internships, full‑time, and freelance opportunities. Ready to remote, hybrid, or on-site work in Minsk.
+
 **Backend Developer** with 1+ year of experience and a second-year **Software Engineering student**. Started with systems programming and algorithmic challenges — from a Huffman-based file compression tool to a 3D raycasting engine. That foundation taught me low‑level performance thinking and complex logic structuring. My latest project - a messenger with audio/video messaging and audio call support - gave me hands-on experience with real-time communication and client-server interaction. Now I am channeling that experience into modern backend development.
 
 ## What I work with
